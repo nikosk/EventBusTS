@@ -1,0 +1,25 @@
+{
+	"name": "eventbus-ts",
+	"description": "EventBusTS: A port of ArbiterJS in TypeScript",
+	"main": [
+		"dist/EventBus.ts",
+		"dist/EventBus.js"
+	],
+	"dependencies": {
+		"lodash": "~3.10.1"
+	},
+	"keywords": [
+		"Event bus",
+		"PubSub"
+	],
+	"authors": [
+		"Nikosk"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	],
+	"private": true
+}

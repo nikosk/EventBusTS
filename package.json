@@ -1,0 +1,28 @@
+{
+  "name": "EventBusTS",
+  "version": "0.0.1",
+  "description": "EventBusTS: A port of ArbiterJS in TypeScript",
+  "author": "",
+  "devDependencies": {
+    "bower": "^1.6.0",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-debug": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.9.2",
+    "gulp-uglify": "*",
+    "gulp-util": "^3.0.6",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-jasmine-html-reporter": "^0.1.8",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "phantomjs": "^1.9.18",
+    "proxy-middleware": "^0.14.0",
+    "tsd": "^0.6.5"
+  },
+ "scripts": {
+   "gulp": "gulp"
+ }
+}
